@@ -15,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranali440/LeetCode_Sol/tree/master/0013-roman-to-integer) |
+| [1768-merge-strings-alternately](https://github.com/pranali440/LeetCode_Sol/tree/master/1768-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/pranali440/LeetCode_Sol/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
