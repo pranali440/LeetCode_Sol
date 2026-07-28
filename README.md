@@ -21,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/pranali440/LeetCode_Sol/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
