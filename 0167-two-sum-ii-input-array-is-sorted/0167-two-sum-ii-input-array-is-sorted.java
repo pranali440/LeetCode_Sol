@@ -3,7 +3,7 @@ class Solution {
         int right=numbers.length-1;
        int left=0;
        int arr[]=new int[2];
-       while(left<numbers.length && right>=0)
+       while(left<right)
        {
         int res=numbers[left]+numbers[right];
                 if(res==target)
