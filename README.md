@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranali440/LeetCode_Sol/tree/master/0013-roman-to-integer) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranali440/LeetCode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pranali440/LeetCode_Sol/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
