@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranali440/LeetCode_Sol/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/pranali440/LeetCode_Sol/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranali440/LeetCode_Sol/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/pranali440/LeetCode_Sol/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranali440/LeetCode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
 ## Greedy
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pranali440/LeetCode_Sol/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
