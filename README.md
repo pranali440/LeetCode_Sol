@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranali440/LeetCode_Sol/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pranali440/LeetCode_Sol/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranali440/LeetCode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -87,9 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pranali440/LeetCode_Sol/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
