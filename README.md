@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pranali440/LeetCode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranali440/LeetCode_Sol/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/pranali440/LeetCode_Sol/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranali440/LeetCode_Sol/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/pranali440/LeetCode_Sol/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
