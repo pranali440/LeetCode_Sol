@@ -6,17 +6,23 @@ class Solution {
         Map<Integer, Integer> basket = new HashMap<>();
         int left = 0;
         int maxFruits = 0;
+//[1,2,3,2,2]
+        for (int right = 0; right < fruits.length; right++) {//0=1  1=2  2=3 ,3=2
+        
+           int currentCount;
+                if (basket.containsKey(fruits[right])) {// false,false , true,
+                    currentCount = basket.get(fruits[right]);   //
+                } 
+                else {
+                    currentCount = 0;                           // 0,0
+                }
+            basket.put(fruits[right], currentCount + 1);  //([0],1) ([1],2)  ([2],3)
 
-        for (int right = 0; right < fruits.length; right++) {
-            // Step 1: add the fruit at 'right' into the basket
-            int currentCount = basket.getOrDefault(fruits[right], 0);
-            basket.put(fruits[right], currentCount + 1);
-
-            // Step 2: if more than 2 distinct fruit types, shrink from the left
-            while (basket.size() > 2) {
-                int leftFruitCount = basket.get(fruits[left]);
+       
+            while (basket.size() > 2) {//1>2=false, 2>2=false  3>2 =true
+                int leftFruitCount = basket.get(fruits[left]);//
                 if (leftFruitCount == 1) {
-                    basket.remove(fruits[left]);   // this fruit type is gone from window
+                    basket.remove(fruits[left]);   // 1=remove{2}
                 } else {
                     basket.put(fruits[left], leftFruitCount - 1); // still present, just fewer
                 }
@@ -24,7 +30,7 @@ class Solution {
             }
 
             // Step 3: update the max window size found so far
-            maxFruits = Math.max(maxFruits, right - left + 1);
+            maxFruits = Math.max(maxFruits, right - left + 1);//(0,0-0+1=1) (1,1-0+1=2){2,2-1+1=2}
         }
 
         return maxFruits;
