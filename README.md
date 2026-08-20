@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pranali440/LeetCode_Sol/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/pranali440/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pranali440/LeetCode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranali440/LeetCode_Sol/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/pranali440/LeetCode_Sol/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pranali440/LeetCode_Sol/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pranali440/LeetCode_Sol/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
