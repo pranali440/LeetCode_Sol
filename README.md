@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranali440/LeetCode_Sol/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/pranali440/LeetCode_Sol/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/pranali440/LeetCode_Sol/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranali440/LeetCode_Sol/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranali440/LeetCode_Sol/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pranali440/LeetCode_Sol/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/pranali440/LeetCode_Sol/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/pranali440/LeetCode_Sol/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pranali440/LeetCode_Sol/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pranali440/LeetCode_Sol/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
