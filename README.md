@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranali440/LeetCode_Sol/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/pranali440/LeetCode_Sol/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/pranali440/LeetCode_Sol/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/pranali440/LeetCode_Sol/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranali440/LeetCode_Sol/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pranali440/LeetCode_Sol/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranali440/LeetCode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/pranali440/LeetCode_Sol/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pranali440/LeetCode_Sol/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pranali440/LeetCode_Sol/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranali440/LeetCode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/pranali440/LeetCode_Sol/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pranali440/LeetCode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
