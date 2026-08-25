@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/pranali440/LeetCode_Sol/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/pranali440/LeetCode_Sol/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/pranali440/LeetCode_Sol/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pranali440/LeetCode_Sol/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranali440/LeetCode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pranali440/LeetCode_Sol/tree/master/0189-rotate-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pranali440/LeetCode_Sol/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/pranali440/LeetCode_Sol/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/pranali440/LeetCode_Sol/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/pranali440/LeetCode_Sol/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/pranali440/LeetCode_Sol/tree/master/0647-palindromic-substrings) |
 ## Sorting
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/pranali440/LeetCode_Sol/tree/master/1927-sum-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pranali440/LeetCode_Sol/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
