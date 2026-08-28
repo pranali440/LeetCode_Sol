@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranali440/LeetCode_Sol/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pranali440/LeetCode_Sol/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranali440/LeetCode_Sol/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/pranali440/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,4 +176,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranali440/LeetCode_Sol/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
