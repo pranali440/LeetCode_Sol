@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pranali440/LeetCode_Sol/tree/master/0013-roman-to-integer) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/pranali440/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/pranali440/LeetCode_Sol/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranali440/LeetCode_Sol/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/pranali440/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
