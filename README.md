@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/pranali440/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranali440/LeetCode_Sol/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pranali440/LeetCode_Sol/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranali440/LeetCode_Sol/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pranali440/LeetCode_Sol/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/pranali440/LeetCode_Sol/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/pranali440/LeetCode_Sol/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/pranali440/LeetCode_Sol/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranali440/LeetCode_Sol/tree/master/1004-max-consecutive-ones-iii) |
