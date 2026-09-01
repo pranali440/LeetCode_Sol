@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pranali440/LeetCode_Sol/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
