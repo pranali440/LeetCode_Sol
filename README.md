@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pranali440/LeetCode_Sol/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/pranali440/LeetCode_Sol/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranali440/LeetCode_Sol/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranali440/LeetCode_Sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranali440/LeetCode_Sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/pranali440/LeetCode_Sol/tree/master/0875-koko-eating-bananas) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranali440/LeetCode_Sol/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
 ## Queue
 |  |
 | ------- |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/pranali440/LeetCode_Sol/tree/master/0175-combine-two-tables) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
