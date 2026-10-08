@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pranali440/LeetCode_Sol/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/pranali440/LeetCode_Sol/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/pranali440/LeetCode_Sol/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/pranali440/LeetCode_Sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/pranali440/LeetCode_Sol/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pranali440/LeetCode_Sol/tree/master/0724-find-pivot-index) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pranali440/LeetCode_Sol/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/pranali440/LeetCode_Sol/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranali440/LeetCode_Sol/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranali440/LeetCode_Sol/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/pranali440/LeetCode_Sol/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/pranali440/LeetCode_Sol/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
